@@ -7,3 +7,7 @@
 这就是这篇文章出来的原因。
 
 假设我有一个列表，显示各个项目的UI设计，那么我就可以快速定位，找到项目
+
+
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E7%A7%BB%E5%8A%A8%E5%95%86%E5%9F%8E.gif?raw=true) 
+
