@@ -17,12 +17,23 @@
 ![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E7%A7%BB%E5%8A%A8%E5%95%86%E5%9F%8E.gif?raw=true) 
 
 ### 仿今日头条demo
-
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1.gif?raw=true)
 
 
 ### 仿芒果TV
-
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E8%8A%92%E6%9E%9CTV.gif?raw=true)
 
 
 ### 仿外卖
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E5%A4%96%E5%8D%96.gif?raw=true)
+
+
+### 仿豆瓣电影
+
+
+
+### 仿豆瓣电影02
+
+
+### 仿知乎日报
 
