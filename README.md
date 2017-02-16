@@ -41,3 +41,25 @@
 ![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5.gif?raw=true)
 
 
+### 仿小米商城
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E5%B0%8F%E7%B1%B3%E5%95%86%E5%9F%8E.gif?raw=true)
+
+
+### 购物加减
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E8%B4%AD%E7%89%A9%E5%8A%A0%E5%87%8F.gif?raw=true)
+
+
+### 仿在线社区
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E5%9C%A8%E7%BA%BF%E7%A4%BE%E5%8C%BA.gif?raw=true)
+
+
+### 分答
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/%E5%88%86%E7%AD%94.gif?raw=true)
+
+
+### flex和grid布局
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/flex%E5%92%8Cgrid%E5%B8%83%E5%B1%80.gif?raw=true)
+
+
+
+
