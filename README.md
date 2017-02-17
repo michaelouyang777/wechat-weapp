@@ -61,5 +61,6 @@
 ![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/flex%E5%92%8Cgrid%E5%B8%83%E5%B1%80.gif?raw=true)
 
 
-
+### 仿QQ音乐
+![](https://github.com/michaelouyang777/wechat-weapp/blob/master/gif/QQ%E9%9F%B3%E4%B9%90.gif?raw=true)
 
